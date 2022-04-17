@@ -1,4 +1,4 @@
-00_data/
+00_data/MNIST
 *.ppt
 *.pptx
 **/__pycache__/
