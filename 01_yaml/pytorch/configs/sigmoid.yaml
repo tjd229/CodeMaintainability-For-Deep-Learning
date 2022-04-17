@@ -1,0 +1,11 @@
+hyper_parameters:
+  batch_size : 32
+  epochs : 5
+  learning_rate : 0.01
+
+network_parameters:
+  activation : 'sigmoid'
+
+data_scale_factor : 2
+
+dataset_root : '../../00_data'
