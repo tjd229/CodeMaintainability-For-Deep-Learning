@@ -1,0 +1,13 @@
+hyper_parameters:
+  batch_size : 32
+  epochs : 5
+  learning_rate : 0.001
+
+network_parameters:
+  after_layer :
+    - "bn"
+    - "relu"
+
+data_scale_factor : 10
+
+dataset_root : '../../00_data'
